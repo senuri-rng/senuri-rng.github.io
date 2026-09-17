@@ -1,4 +1,4 @@
-[Home](index.md) | [Research](research.md) | [Publications](publications.md) | [Contact](contact.md)
+[Home](index.md) | [Research](research.md) | [Publications](publications.md) | [Teaching](teaching.md) | [Contact](contact.md)
 
 # Teaching Experience
 
